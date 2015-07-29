@@ -78,7 +78,8 @@
 * 《Java解惑》
 * 《Java与模式》
 
-## Android书籍
+## 具体的工作领域（根据自己的方向选择学习）
+### Android书籍
 
 * 《第一行代码 Android》
 * 《Android编程权威指南》
@@ -87,6 +88,20 @@
 * 《深入理解Android：卷1/2》
 * 《Android内核剖析》
 * 《Android源码情景分析》
+
+### iOS书籍
+
+* 《Objective-c基础教程 第二版》
+* 《精通iOS开发》
+* 《iOS编程实践》
+* 《Swift开发指南》
+
+
+### 后端开发
+
+
+
+### 大数据
 
 
 
