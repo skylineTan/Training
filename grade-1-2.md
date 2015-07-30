@@ -19,6 +19,10 @@
 * [《深度探索C++对象模型》](http://item.jd.com/10909788.html)
 * [《C++标准库（第2版）》](http://item.jd.com/11706352.html)
 
+参考资料 : 
+
+* [孙鑫c++](http://pan.baidu.com/wap/link?shareid=1955831473&uk=2871568091&third=0&dir=%2F%E5%AD%A6%E4%B9%A0%E5%90%9B%2Fc_c%2B%2B_c%23%2F%E5%AD%99%E5%85%B4c%2B%2B&page=1)
+
 ## 2、Qt编程   [1个月]
 
 学习QT的GUI编程，理解GUI编程基本原理与模型，为后续开发做准备。
