@@ -12,7 +12,7 @@ UIT培养计划，重在培养软件开发人员的理论与技术开发能力�
 ## 学习资料
 
 * [在大学中推荐阅读的书单](the_books_you_must_know.md)
-* [Android学习资料](the_books_you_must_know.md)
-* [iOS学习资料]()
-* [后端开发学习资料]()
-* [大数据学习资料]()
+* [Android学习资料](android.md)
+* [iOS学习资料](ios.md)
+* [后端开发学习资料](server.md)
+* [大数据学习资料](big-data.md)
