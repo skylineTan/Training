@@ -58,6 +58,7 @@
 重点是掌握Linux多线程以及HTTP网络请求的报文格式以及解析。
 
 [参考资料](http://www.maiziedu.com/course/qrsqd/479-6171/)
+[实现了一个比nginx速度更快的HTTP服务器](http://www.cnblogs.com/clowwindy/archive/2011/09/23/a_http_server_faster_than_nginx.html)
 
 
 ## 4、基于Qt的UIT人员管理系统项目 [三周左右]
