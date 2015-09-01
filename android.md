@@ -1,11 +1,11 @@
 # Android书籍
 
-* 《第一行代码 Android》
-* 《Android编程权威指南》
-* 《Android群英传》
-* 《Android开发精要》
-* 《Android源码设计模式解析与实战》 ( 我的书，大约在2015年9月出版 )
-* 《Android开发艺术探索》
+* [《第一行代码 Android》](http://item.jd.com/11504254.html)    (入门)
+* [《Android编程权威指南》](http://item.jd.com/11431307.html)   
+* [《Android群英传》](http://item.jd.com/11758334.html)
+* [《Android编程实战》](http://item.jd.com/11492128.html)
+* [《Android源码设计模式解析与实战》]()
+* [《Android开发艺术探索》](http://item.jd.com/11760209.html)
 * 《深入理解Android：卷1/2》
 * 《Android内核剖析》
 * 《Android源码情景分析》
