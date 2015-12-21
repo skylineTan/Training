@@ -4,7 +4,7 @@
 * [《Android编程权威指南》](http://item.jd.com/11431307.html)   
 * [《Android群英传》](http://item.jd.com/11758334.html)
 * [《Android编程实战》](http://item.jd.com/11492128.html)
-* [《Android源码设计模式解析与实战》]()
+* [《Android源码设计模式解析与实战》](http://item.jd.com/11793928.html)
 * [《Android开发艺术探索》](http://item.jd.com/11760209.html)
 * 《深入理解Android：卷1/2》
 * 《Android内核剖析》
